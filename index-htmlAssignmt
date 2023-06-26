@@ -1,0 +1,57 @@
+   <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bio</title>
+     
+</head>
+<body>
+    
+    <h1>George Aghughu <img src="https://lh3.googleusercontent.com/IyOe4CNqXEiuhYaYms5IJocLSL8b8ac0Ehcs4pHd8ZAnrs9bE5Q3IzGEqtmfJSkD2FB3_wLlBIaQY2NzSS6s13J3D4yYk7eZ1nEiVv4ht-m9Qtp_HVnMpgrze23d8kcEdaZ0EJniVA=w600-h315-p-k" alt="myphoto"></h1>
+    <fieldset>
+    <h2>Location</h2> <p> I live in Belgium, a western Europe country referred to as the capital of Europe and the headquarter of the European Union. The country is also known of his distinctive regions with multilingual speakers and dynamic politics across the regions.</p><br>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6bmXufShXagx7OQL7Fni57d6F3d6XxhOtZQ&usqp=CAU">
+    <p> As I grow older I learn and unlearn stuffs...<br>
+        I am of the opinion that learning is a continual, thus I align with the principle of life long learning.<br>
+        I consider myself an extrovert who like to explore new opportunities.<br>
+        I pursue my dreams vigorously to achieve greater height.<br> 
+        It gives me great satisfaction that I could also inspire others.<br>
+        I also believed in the existence of God almighty and his lovely kindness.</p>
+    
+    <h3> My favourite Hobbies are:</h3> 
+        <uli>
+        <li>Watching and Playing Football</li>
+        <li>Travelling</li>
+        <li>Music</li>
+        <li>Games</li>
+        <li>Social Media App</li>
+    </uli>
+    
+</fieldset>
+    <h4>Contact me on this page</h4>
+    <div class="container">
+      <form>
+            <label for="fname">First Name:</label>
+            <input type="text" id="fname" name="firstname" placeholder="Enter First Name..."/><br>
+            <label for="lname">Last Name</label>
+            <input type="text" id="lname" name="lastname" placeholder="Enter Last Name..."><br>
+            <label for="email">Email:</label>
+            <input type="text" id="email" name="Email"/> <br>
+            <label for="country">Country</label>
+            <select id="country" name="country">
+                <option value="united kingdom">Belgium</option>
+                <option value="Belgium">United Kingdom</option>
+                <option value="france">France</option>
+                <option value="others">Others</option>
+            </select><br>
+            
+            <textarea id="subject" name="subject" placeholder="Brief Note Here.." style="height:100px"></textarea>
+            <input type="submit" value="Submit"><br>
+        </form>
+    </div>   
+    
+
+         
+</body>
+</html             
